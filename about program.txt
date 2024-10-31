@@ -1,0 +1,4 @@
+	i am writing a program where user Enter any number and check which number he interd that 
+	number is even or odd or nuttel ( 0 ) , for writing this program i use prompt for user input 
+ 
+
