@@ -1,4 +1,4 @@
-confirm("Check Number It is Even RO Odd");
+confirm("Check Positive And Negatiev");
 let user_input = parseInt(prompt("Enter Any Number "))
 
 if(user_input===0){
